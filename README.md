@@ -1,5 +1,3 @@
-Samajh gaya bhai — tu chah raha hai **sirf `README.md` ka content** bina `.gitignore` ya extra info ke, bilkul clean aur ready-to-paste format mein. Toh ye raha **final polished `README.md`**, jo tu seedha GitHub pe paste kar sakta hai:
-
 ---
 
 ```markdown
