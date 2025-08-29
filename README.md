@@ -1,3 +1,7 @@
+Samajh gaya bhai — tu chah raha hai **sirf `README.md` ka content** bina `.gitignore` ya extra info ke, bilkul clean aur ready-to-paste format mein. Toh ye raha **final polished `README.md`**, jo tu seedha GitHub pe paste kar sakta hai:
+
+---
+
 ```markdown
 # 🔗 Azure VNet Peering using Terraform
 
@@ -25,18 +29,18 @@ This is a mini project demonstrating how to configure **Azure Virtual Network (V
 
 ## ⚙️ What It Does
 
-- Creates two Virtual Networks (VNet-A and VNet-B) in separate address spaces
-- Deploys one subnet in each VNet
-- Configures **bidirectional VNet Peering** between VNet-A and VNet-B
-- Deploys **Linux VMs** in each VNet to validate connectivity
+- Creates two Virtual Networks (VNet-A and VNet-B) in separate address spaces  
+- Deploys one subnet in each VNet  
+- Configures **bidirectional VNet Peering** between VNet-A and VNet-B  
+- Deploys **Linux VMs** in each VNet to validate connectivity  
 
 ---
 
 ## 🧱 Prerequisites
 
-- [Terraform](https://developer.hashicorp.com/terraform/downloads)
-- Azure CLI logged in (`az login`)
-- An active Azure subscription
+- [Terraform](https://developer.hashicorp.com/terraform/downloads)  
+- Azure CLI logged in (`az login`)  
+- An active Azure subscription  
 
 ---
 
@@ -84,15 +88,17 @@ terraform destroy
 
 ## 📸 Screenshots
 
-<img width="802" height="267" alt="image" src="https://github.com/user-attachments/assets/9c98892b-00ff-4821-b95a-3c7b83bf9a4a" />
+<img width="802" height="267" alt="Portal View" src="https://github.com/user-attachments/assets/9c98892b-00ff-4821-b95a-3c7b83bf9a4a" />
 
-<img width="323" height="207" alt="image" src="https://github.com/user-attachments/assets/7716c9c5-5a0d-4726-a0c1-01d5e09c7fc4" />
+<br/>
+
+<img width="323" height="207" alt="Peering View" src="https://github.com/user-attachments/assets/7716c9c5-5a0d-4726-a0c1-01d5e09c7fc4" />
 
 ---
 
 ## 👨‍💻 Author
 
-* **Shiv Shrivastava** – [@yourgithub](https://github.com/ShivShrivastava)
+* **Shiv Shrivastava** – [@ShivShrivastava](https://github.com/ShivShrivastava)
 
 ---
 
@@ -104,5 +110,6 @@ terraform destroy
 
 ---
 
+Bas bhai, ab isey copy karo aur `README.md` file mein paste kar do GitHub par. Perfectly formatted hai!  
+Agar aur projects ke liye help chahiye ho toh bata dena.
 ```
-
