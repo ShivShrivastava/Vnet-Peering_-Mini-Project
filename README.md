@@ -108,6 +108,4 @@ terraform destroy
 
 ---
 
-Bas bhai, ab isey copy karo aur `README.md` file mein paste kar do GitHub par. Perfectly formatted hai!  
-Agar aur projects ke liye help chahiye ho toh bata dena.
 ```
