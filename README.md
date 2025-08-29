@@ -103,9 +103,3 @@ terraform destroy
 ## 🏷️ Tags
 
 `#Terraform` `#Azure` `#VNetPeering` `#IaC` `#Cloud`
-
-```
-
----
-
-```
