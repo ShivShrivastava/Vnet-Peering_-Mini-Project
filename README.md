@@ -10,13 +10,10 @@ This is a mini project demonstrating how to configure **Azure Virtual Network (V
 
 12.VnetPeering/
 │
-├── .terraform/              # Terraform local state files
-├── .terraform.lock.hcl      # Dependency lock file
 ├── network.tf               # Contains VNet and Subnet definitions
-├── provider.tf              # Azure provider configuration
-├── terraform.tfstate        # Terraform state file (DO NOT COMMIT)
-├── variables.tf             # Input variables
 └── vm.tf                    # Virtual machine configuration
+├── provider.tf              # Azure provider configuration
+├── variables.tf             # Input variables
 
 ````
 
