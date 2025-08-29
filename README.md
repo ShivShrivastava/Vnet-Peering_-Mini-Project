@@ -11,7 +11,7 @@ This is a mini project demonstrating how to configure **Azure Virtual Network (V
 12.VnetPeering/
 │
 ├── network.tf               # Contains VNet and Subnet definitions
-└── vm.tf                    # Virtual machine configuration
+├── vm.tf                    # Virtual machine configuration
 ├── provider.tf              # Azure provider configuration
 ├── variables.tf             # Input variables
 
